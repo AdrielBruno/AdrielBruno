@@ -15,7 +15,7 @@
 
 Olá, Eu sou o **Adriel Bruno**, formado em **Análise e Desenvolvimento de Sistemas** 🚀 e em **Redes de Computadores**, gosto sempre de aprender algo novo todos os dias e sempre em busca de aperfeiçoar meus conhecimentos, além de ser apaixonado por jogos. 
 
-  <img align="right" alt="GIF" src="https://i.gifer.com/CkxA.gif">
+  <iframe src="https://giphy.com/embed/q1mHcB8wOCWf6" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/homer-simpson-the-simpsons-reaction-q1mHcB8wOCWf6">via GIPHY</a></p>
 
 **Detalhes**
 
